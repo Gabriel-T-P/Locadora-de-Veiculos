@@ -1,0 +1,7 @@
+-- SQLite
+
+-- Tarefa 21
+
+
+SELECT COUNT(ID) FROM LOCATIONS;
+
