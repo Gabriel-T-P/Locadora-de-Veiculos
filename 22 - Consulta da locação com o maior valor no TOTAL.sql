@@ -1,0 +1,6 @@
+-- SQLite
+
+-- Tarefa 22
+
+
+SELECT *, MAX(TOTAL) FROM LOCATIONS;
