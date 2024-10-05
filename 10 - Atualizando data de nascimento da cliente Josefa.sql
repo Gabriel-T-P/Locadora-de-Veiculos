@@ -1,0 +1,6 @@
+-- SQLite
+
+-- Tarefa 10
+
+
+UPDATE CUSTOMERS SET BIRTH_DATE = '1986-06-19' WHERE NAME = "Josefa";
